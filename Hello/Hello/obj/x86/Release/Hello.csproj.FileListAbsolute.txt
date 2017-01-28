@@ -1,0 +1,9 @@
+C:\primeri\primeri.csharp.terminal\Primeri.Csharp.Terminal\Hello\Hello\bin\Release\Hello.exe
+C:\primeri\primeri.csharp.terminal\Primeri.Csharp.Terminal\Hello\Hello\bin\Release\mscorlib.dll
+C:\primeri\primeri.csharp.terminal\Primeri.Csharp.Terminal\Hello\Hello\bin\Release\normidna.nlp
+C:\primeri\primeri.csharp.terminal\Primeri.Csharp.Terminal\Hello\Hello\bin\Release\normnfc.nlp
+C:\primeri\primeri.csharp.terminal\Primeri.Csharp.Terminal\Hello\Hello\bin\Release\normnfd.nlp
+C:\primeri\primeri.csharp.terminal\Primeri.Csharp.Terminal\Hello\Hello\bin\Release\normnfkc.nlp
+C:\primeri\primeri.csharp.terminal\Primeri.Csharp.Terminal\Hello\Hello\bin\Release\normnfkd.nlp
+C:\primeri\primeri.csharp.terminal\Primeri.Csharp.Terminal\Hello\Hello\obj\x86\Release\Hello.csprojResolveAssemblyReference.cache
+C:\primeri\primeri.csharp.terminal\Primeri.Csharp.Terminal\Hello\Hello\obj\x86\Release\Hello.exe
